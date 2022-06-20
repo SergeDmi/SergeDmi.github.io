@@ -4,7 +4,3 @@ title: Serge Dmitrieff's homepage
 description: A page/blog about biophysics, science, and society.
 markdown: kramdown
 highlighter: rouge
-    input: GFM
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
