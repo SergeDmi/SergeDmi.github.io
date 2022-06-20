@@ -21,4 +21,4 @@ Now we will assume that there is also uncertainty on $X$. If $Y$ is cell size, l
 ![Experimental distribution of X and Y with X variance](images/xvariance_stats.png)  
 
 It's a bad idea to use a linear fit because it does not try to explain the variance on $X$. Thus, it is a much better idea to use a PCA. What the PCA does is find the directions along which variance is maximal. In the example, variance is maximal along the axis $u$, and the remaining variance is along the axis $v$.
-![PCA on X and Y distribution](images/simple_pca.png)  
+![PCA on X and Y distribution](images/pca_simple.png)
