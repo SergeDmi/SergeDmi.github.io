@@ -3,5 +3,5 @@
 ## Science
 
 ## Society
-[Some figures about global warming](/pages/lowering_carbon/)
+[Some figures about global warming](/pages/lowering_carbon)
 ## Blog
