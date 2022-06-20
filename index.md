@@ -1,7 +1,7 @@
 # Resources on this site
 
 ## Science
-
+[A minimal introduction to PCA](/pages/pca)
 ## Society
 [Some figures about global warming](/pages/lowering_carbon)  
 
