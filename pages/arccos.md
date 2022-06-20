@@ -8,7 +8,7 @@ This of course will work beautifully. Because of the normalization ```/(n1.norm(
 
 Except, you know, finite precision arithmetic ! Indeed, once has a finite precision for double, so even if one should get x=1, we could get x just just just a pinch slightly bigger than 1.  
 
-And, since my vectors very often have the same orientation, my code will crash because I’m taking the ```std::acos(w)``` for x>1 (even though it’s actually x=1).  
+And, since my vectors very often have the same orientation, my code will crash because I’m taking the ```std::acos(w)``` for $x>1$ (even though it’s actually $x=1$).  
 
 So the next thing you know, I have to be a bit more careful :  
 ```C++
@@ -41,7 +41,7 @@ However, I have to compute a lot of safer_acos in my code. Like, many. So it’s
 
 Much faster ! Also, note that your compiler (at least gcc, probably any good compiler) will simplify the algebra for you, so you can keep it in 10 lines for clarity…  
 
-However, I still need to add if (x > 1.0) x = 1.0 ; to make the code safe. But this will also make it slower (arguably not much, but…), since if are slow because of branch predictions. You can try x=std::min(x,1.0);, but it’s not really faster.  
+However, I still need to add ```if (x > 1.0) x = 1.0 ;``` to make the code safe. But this will also make it slower (arguably not much, but...), since if are slow because of branch predictions. You can try ```x=std::min(x,1.0);```, but it’s not really faster.  
 
 In the end, we can still use the standard trick of using (x>1.0) as a variable, which requires no branching. And we can write : ```x -= double(x>1.0)*(x-1.0);```. In the end, the fastest, non-crashing acos() I could find was : 
 ```C++
