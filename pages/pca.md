@@ -1,3 +1,6 @@
+---
+usemathjax : true
+---
 # A minimal introduction to data fitting, PCA, and dimensionality reduction
 In this post, I'll give a simple interpretation of PCA, and explain why it allows dimensionality reduction.
 
