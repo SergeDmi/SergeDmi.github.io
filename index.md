@@ -8,7 +8,8 @@
 ## Blog
 [A fast way to compute arccos](/pages/arccos)
 ## Software
-[github](https://github.com/SergeDmi)  
-[gitlab](https://gitlab.com/SergeDmi)  
+[My github](https://github.com/SergeDmi)  
+[My gitlab](https://gitlab.com/SergeDmi)  
 
 ## Miscellaneous
+[Twitter](https://twitter.com/bio_physics)
