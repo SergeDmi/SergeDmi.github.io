@@ -11,4 +11,4 @@
 [github](https://github.com/SergeDmi)  
 [gitlab](https://gitlab.com/SergeDmi)  
 
-## Miscellatneous
+## Miscellaneous
