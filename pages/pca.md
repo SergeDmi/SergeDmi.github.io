@@ -12,6 +12,6 @@ One usual approach to quantify the correlation between $X$ and $Y$, assuming $X$
 
 We can note here that $Y-aX$ is the distance on the $y$ axis between the line $Y=aX$ and the point $X,Y$. It is basically the part of $Y$ that is not explained by the relation $Y=aX$.  
 
-![Least square fitting of Y vs X](images/simple_stats.png)
+![Least square fitting of Y vs X](images/simple_stats_edited.png)
 
 $<(Y-aX)^2>$ is thus the definition of the variance of that is not explained by the fit. Least square fitting thus tries to minimize the unexplained variance, i.e. maximize the *explained* variance.
