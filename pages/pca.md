@@ -45,4 +45,4 @@ It would be really nice to find the two direction along which variation is maxim
 
 Once again this is not too surprising : cancer has a major impact on cell features and it makes sense that the malignancy shows up in the data. Here, it is clear that merely two dimensions (PCA1 and PCA2) are sufficient to predict if a cell is malignant. We can therefore reduce the  effective dimensionality of the system from 32 to 2 without loosing too much information. Most of the variability is explained by these two dimensions, and the rest of the variance is smaller and less relevant.
 
-Oh and one can see PCA as an "unsupervised" machine learning tool, since we were able to segregate data without guiding the algorithm with the desired outcome.
+Oh and one can see PCA as an "unsupervised" machine learning tool, since we were able to segregate data without guiding the algorithm with the desired outcome. Note that there are many cases where a PCA will not be a good predictor - after all, a PCA is just a rotation in the feature space.
