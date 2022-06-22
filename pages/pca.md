@@ -2,7 +2,7 @@
 usemathjax : true
 ---
 # A minimal introduction to data fitting, PCA, and dimensionality reduction
-In this post, I'll give a simple interpretation of PCA, and explain why it allows dimensionality reduction.
+In this post, I'll give a simple interpretation of PCA, and explain why it allows dimensionality reduction...
 
 ## "Fitting data" is minimizing unexplained variance
 Let us consider two observables $X,Y$ that can be measured experimentally. For example, $X$ could be time and $Y$ could be cell size. For now, we will assume that there is variability on $Y$ but not on $X$.  
