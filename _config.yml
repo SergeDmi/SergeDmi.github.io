@@ -7,4 +7,4 @@ description: A page/blog about biophysics, science, and society...
 markdown: kramdown
 highlighter: rouge
 kramdown:
-    highlighter: rouge
+    syntax_highlighter: rouge
