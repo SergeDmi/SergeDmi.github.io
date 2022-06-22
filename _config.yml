@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+author:
+    name: "Serge Dmitrieff"
 logo: /resources/images/logo.png
 title: Serge Dmitrieff's homepage
 description: A page/blog about biophysics, science, and society...
