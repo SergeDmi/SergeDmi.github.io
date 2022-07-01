@@ -1,6 +1,6 @@
 In a code I’m developping ([elastic model of discretized shells](https://github.com/SergeDmi/LimeSurf)), I needed to have the arccos of a scalar products of two (normalized) vectors, n1 and n2. So I used :
 
-```C++
+```cpp
  std::acos(n1.dot(n2)/(n1.norm()*n2.norm()))
 ```
 
@@ -11,7 +11,7 @@ Except, you know, finite precision arithmetic ! Indeed, once has a finite precis
 And, since my vectors very often have the same orientation, my code will crash because I’m taking the ```std::acos(w)``` for $x>1$ (even though it’s actually $x=1$).  
 
 So the next thing you know, I have to be a bit more careful :  
-```C++
+```cpp
  double safer_acos(double x) {
  if (x < -1.0) x = -1.0 ;
  else if (x > 1.0) x = 1.0 ;
@@ -20,7 +20,7 @@ So the next thing you know, I have to be a bit more careful :
 ```
 
 However, I have to compute a lot of safer_acos in my code. Like, many. So it’s slow. Very slow. First thing I can do is to use an approximation of acos, because some work really well, like Nvidia’s :
-```C++
+```cpp
  double faster_acos(double x) {
  // Handbook of Mathematical Functions
  // M. Abramowitz and I.A. Stegun, Ed.
@@ -44,7 +44,7 @@ Much faster ! Also, note that your compiler (at least gcc, probably any good com
 However, I still need to add ```if (x > 1.0) x = 1.0 ;``` to make the code safe. But this will also make it slower (arguably not much, but...), since if are slow because of branch predictions. You can try ```x=std::min(x,1.0);```, but it’s not really faster.  
 
 In the end, we can still use the standard trick of using (x>1.0) as a variable, which requires no branching. And we can write : ```x -= double(x>1.0)*(x-1.0);```. In the end, the fastest, non-crashing acos() I could find was : 
-```C++
+```cpp
  double faster_safer_acos(double x) {
  double negate = double(x < 0);
  x = abs(x);
