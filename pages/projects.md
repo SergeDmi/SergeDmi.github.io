@@ -10,10 +10,15 @@ While actin filaments are often represented theoretically as semi-flexible filam
  
 We implemented in the software platform [cytosim](https://gitlab.com/f-nedelec/cytosim) a helical actin filament, that is compatible with the wide variety of the functionalities of the simulations. We thus can simulate chiral mesoscopic assemblies of actin filaments. This work is spearheaded by [Amir Khosravanizadeh](https://www.ijm.fr/linstitut/annuaire/name/amir-khosravanizadeh/).
 
-### Cytoplasm fluidization 
+### Cytoplasm visco-elasticity and fluidization 
+The cytoskeleton is a densely packed medium that behaves as an elastic medium at short times, and as a viscous fluid at longer times. In a [recent work](https://www.biorxiv.org/content/10.1101/2022.09.27.509722.abstract), we showed that, somewhat surprisingly, a simple linear 3-elements visco-elastic model (Jeffrey's model, a.k.a. standard linear liquid) adequately reprends the cytoplasm, even when moving large objects. For large objects, the finite size of the cell effectively increases the viscous and elastic moduli, because there is less space to accomodate velocity gradients than in an infinite medium. We were able to show that half of the viscous and elastic moduli of the cytoplasm is due to actin.
 
+Now our goal is to understand how viscosity and elasticity emerge from the bulk actin, despite a seemingly low density (with Amir Khosravanizadeh, Javad Najafi, and Nicolas Minc).
 
 ### Contractile actin networks as active fluids
+The active gel formalism is popular to model contractile actin networks, because of its simplicity and near-linearity. However, it is not obvious that a complex network of filaments, motors and crosslinkers actually behaves according to such simple equations. Moreover, the link between the microscopic parameters (motor and actin properties) and macroscopic parameters (visco-elastic moduli) is far from obvious.
+
+We aim at finding regimes in which actin does behave as an active contractile fluid, the properties of which can be predicted by its components.
 
 ### Simulations of coupled actin-membrane mechanics
 
