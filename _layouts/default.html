@@ -23,17 +23,20 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="{{ absolute_url }}/pages/projects">Projects !</a></p>
+        <p class="view"><a href="{{ absolute_url }}/pages/projects">Projects</a></p>
+        <p class="view"><a href="{{ absolute_url }}/pages/science">Science</a></p>
+        <p class="view"><a href="{{ absolute_url }}/pages/blog">Blog</a></p>
+        <p class="view"><a href="{{ absolute_url }}/pages/software">Software</a></p>
+        <p class="view"><a href="{{ absolute_url }}/pages/society">Society</a></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">GitHub </a> // <a href="https://gitlab.com/SergeDmi">Gitlab </a></p>
         {% endif %}
-        <p class="view"><a href="https://gitlab.com/SergeDmi">Gitlab Profile</a></p>
-
+        <p class="view"><a href="https://scholar.google.com/citations?user=ej4KOUsAAAAJ&hl=en">Google scholar </a> </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
