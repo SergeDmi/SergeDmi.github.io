@@ -1,3 +1,3 @@
 # Science
-[Projects](/pages/projects)  
-[A minimal introduction to PCA](/pages/pca)  
+- [Current projects](/pages/projects)  
+- [A minimal introduction to PCA](/pages/pca)  
