@@ -39,8 +39,6 @@ $$\bar{f}_n^{n+1}(x)=-\frac{n+1}{n}x$$
 A pretty neat result. Independently of the shape of the space, the force is linear with $x$ for $p=n+1$ ! For instance, in $3D$, $p=4$ gives a force linear with $x$. Pretty surprising !
 However, $p=1$ does not generally lead to a force $\bar{f}_n^{1}$ linear with $x$. 
 
-Let us consider two observables $X,Y$ that can be measured experimentally. For example, $X$ could be time and $Y$ could be cell size. For now, we will assume that there is variability on $Y$ but not on $X$.
-
 ## What is the cell center ?
 In non-spherical cells, the center as found by having a zero mean force is not necessary the center of mass ! Insted, for a given $n$, it depends upon $p$. Finding the center of mass *autonomously* is not that easy !
 
