@@ -1,7 +1,7 @@
 ---
 usemathjax : true
 ---
-# Finding the center of a space from an object's perspective
+# Finding the center autonomously in convex cells
 What is the link between an animal cell dividing in the correct place (in the middle), the properties of convex spaces in $n$ dimensions, and Newton's first theorem ? Well, there is one !
 
 Finding the center of a space is a common problem in many situations. In cells, is important for the nucleus or the spindle to be located at the cell center, for division to take place at the correct place. We can view the nucleus as an *autonomous* object without a global knowledge of its environment. How can it find the center of the cell ? This question can be generalized in any dimension, and interesting results appear for convex spaces.
