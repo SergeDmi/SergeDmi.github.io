@@ -7,7 +7,11 @@ What is the link between an animal cell dividing in the correct place (in the mi
 Finding the center of a space is a common problem in many situations. In cells, is important for the nucleus or the spindle to be located at the cell center, for division to take place at the correct place. We can view the nucleus as an *autonomous* object without a global knowledge of its environment. How can it find the center of the cell ? This question can be generalized in any dimension, and interesting results appear for convex spaces.
 
 ## The nucleus finds the center by applying forces on its environment
-In fertilized embryos, the male pronucleus often forms an aster of microtubules - long, stiff filaments. Microtubules exert forces on the environment : either ($i$) being pulled by the boundary (because of molecular motors on the membrane), ($ii$) being pulled in the bulk of the space (by molecular motors in the volume of the cell), or ($iii$) pushing on the boundaries of the space (because of steric repulsion). All three hypothesis have been documented in cells. They are called ($i$) cortical pulling, ($ii$) bulk pulling, ($iii$) cortical pushing.
+In fertilized eggs, the male pronucleus often forms an aster of microtubules - long, stiff filaments. Microtubules exert forces on the environment : either ($i$) being pulled by the boundary (because of molecular motors on the membrane), ($ii$) being pulled in the bulk of the space (by molecular motors in the volume of the cell), or ($iii$) pushing on the boundaries of the space (because of steric repulsion). All three hypothesis have been documented in cells. They are called ($i$) cortical pulling, ($ii$) bulk pulling, ($iii$) cortical pushing.
+
+
+![Modes of centering of the pronucleus in fertilized oocytes.](images/center.png)  
+
 
 All three allow centering because the force depend on the distance between the nucleus and the boundary, and the net force ends up towards the center of the cell. I will focus here on cases $ii$ and $iii$, where microtubules are distributed with central symmetry around the nucleus - but their length is the distance from the nucleus to the boundary, they depend on the nucleus position, and are not centrally symmetric.
 
@@ -40,6 +44,4 @@ Let us consider two observables $X,Y$ that can be measured experimentally. For e
 ## What is the cell center ?
 In non-spherical cells, the center as found by having a zero mean force is not necessary the center of mass ! Insted, for a given $n$, it depends upon $p$. Finding the center of mass *autonomously* is not that easy !
 
-
-![Experimental distribution of X and Y](images/simple_stats.png)  
 
