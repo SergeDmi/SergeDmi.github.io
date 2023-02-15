@@ -30,7 +30,7 @@ Thus the mean force seems to strongly depend on the form of $l(x,\theta)$, which
 For other shapes, results may be complicated, by we can define $\bar{l}_n^p(x)$,  the fraction of space visible from the position $x$ : 
 $$\bar{l}_n^p(x)= \frac{1}{ \alpha_n } \int_0^\pi \sin^{n-2}{(\theta)} l(x,\theta)^p d\theta $$
 
-For a convex space, $\bar{l}_n^p(x)$ is $1$ by definition - although a weaker hypothesis than convexity might be formulated.
+For a convex space, $\bar{l}_n^n(x)$ is $1$ by definition - although a weaker hypothesis than convexity might be formulated.
 
 ## Convex spaces in n dimensions
 Using the property that  $\bar{l}_n^p(x)=1$ for a convex space, we were able to show that :  
