@@ -18,7 +18,7 @@ All three allow centering because the force depend on the distance between the n
 In the case $ii$, microtubule exert pulling forces, that are proportional to the distance to a positive power (the longer the microtubule, the more it pulls). In case $iii$, microtubules exert pushing forces, that are proportional to the distance to a negative power (the longer the microtubule, the less it pushes). Both mechanisms lead to a net force towards the "center" of the cell.
 
 ## Formalism
-For simplicity, I will consider here a $n$⁻dimensional space, that is axially symmetric around the axis $Ox$. We can write the mean force on the nucleus as a sum over all angles of the force per unit angle :   
+For simplicity, I will consider here a $n$ -dimensional space, that is axially symmetric around the axis $Ox$. We can write the mean force on the nucleus as a sum over all angles of the force per unit angle :   
 $$ \bar{f}_n^p(x)= \frac{ 1}{\alpha_n } \int_0^\pi \cos{\theta} \sin^{n-2}{(\theta)} l(x,\theta)^p d\theta $$
 $$\alpha_n = \frac{\Gamma[\frac{n-1}{2}]}{\Gamma[\frac{n}{2}]} \sqrt{\pi} $$
 
