@@ -19,7 +19,7 @@ $$ \bar{f}_n^p(x)= \frac{ 1}{\alpha_n } \int_0^\pi \cos{\theta} \sin^{n-2}{(\the
 $$\alpha_n = \frac{\Gamma[\frac{n-1}{2}]}{\Gamma[\frac{n}{2}]} \sqrt{\pi} $$
 
 
-In which $x$ is the position of the nucleus, $l(x,\theta)$ is the distance between the nucleus (at position $x$ on the axis of symmetry) and the surface, given the angle $\theta$ between $Ox$ and the direction of the force$. $ \Gamma $ is the gamma function and $ p $ is the power law of the force as a function of distance.
+In which $x$ is the position of the nucleus, $l(x,\theta)$ is the distance between the nucleus (at position $x$ on the axis of symmetry) and the surface, given the angle $\theta$ between $Ox$ and the direction of the force. $ \Gamma  $  is the gamma function and $ p $ is the power law of the force as a function of distance.
 
 Thus the mean force seems to strongly depend on the form of $l(x,\theta)$, which depends on the shape of the space. We can already verify interesting properties though, and there is an analytical expression for the mean force in an $n$-sphere for any $ p $. For a 3D sphere with $p=-2$ (which is the exponent for gravity), we indeed find $\bar{f}_3^{-2}(x)=0$, in agreement with Newton's first theorem. 
 
