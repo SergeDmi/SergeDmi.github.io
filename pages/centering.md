@@ -15,7 +15,7 @@ In fertilized eggs, the male pronucleus often forms an aster of microtubules - l
 
 All three allow centering because the force depend on the distance between the nucleus and the boundary, and the net force ends up towards the center of the cell. I will focus here on cases $ii$ and $iii$, where microtubules are distributed with central symmetry around the nucleus - but their length is the distance from the nucleus to the boundary, they depend on the nucleus position, and are not centrally symmetric.
 
-In the case $ii$, microtubule exert pulling forces, that are proportional to the distance to a positive power (the longer the microtubule, the more it pulls). In case $iii$, microtubules exert pushing forces, that are proportional to the distance to a negative power (the longer the microtubule, the less it pushes). Both mechanisms lead to a net force towards the "center" of the cell.
+In the case $ii$, microtubule exert pulling forces, that are proportional to the distance to a positive power (the longer the microtubule, the more it pulls). In case $iii$, microtubules exert pushing forces, that are proportional to the distance to a negative power (the longer the microtubule, the less it pushes). Both mechanisms lead to a net force towards the "center" of the cell. [See the article for more details](https://iopscience.iop.org/article/10.1209/0295-5075/125/48001/)
 
 ## Formalism
 For simplicity, I will consider here a $n$ -dimensional space, that is axially symmetric around the axis $Ox$. We can write the mean force on the nucleus as a sum over all angles of the force per unit angle :   
