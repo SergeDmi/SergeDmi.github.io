@@ -33,7 +33,7 @@ $$\bar{l}_n^p(x)= \frac{1}{ \alpha_n } \int_0^\pi \sin^{n-2}{(\theta)} l(x,\thet
 For a convex space, $\bar{l}_n^n(x)$ is $1$ by definition - although a weaker hypothesis than convexity might be formulated.
 
 ## Convex spaces in n dimensions
-Using the property that  $\bar{l}_n^p(x)=1$ for a convex space, we were able to show that :  
+Using the property that  $\bar{l}_n^n(x)=1$ for a convex space, we were able to show that :  
 $$\bar{f}_n^{n+1}(x)=-\frac{n+1}{n}x$$
 
 A pretty neat result. Independently of the shape of the space, the force is linear with $x$ for $p=n+1$ ! For instance, in $3D$, $p=4$ gives a force linear with $x$. Pretty surprising !
