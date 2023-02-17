@@ -27,10 +27,10 @@ In which $x$ is the position of the nucleus, $l(x,\theta)$ is the distance betwe
 
 Thus the mean force seems to strongly depend on the form of $l(x,\theta)$, which depends on the shape of the space. We can already verify interesting properties though, and there is an analytical expression for the mean force in an $n$-sphere for any $ p $. For a 3D sphere with $p=-2$ (which is the exponent for gravity), we indeed find $\bar{f}_3^{-2}(x)=0$, in agreement with Newton's first theorem. 
 
-For other shapes, results may be complicated, by we can define $\bar{l}_n^p(x)$,  the fraction of space visible from the position $x$ : 
+For other shapes, results may be complicated, by we can define $\bar{l}_n^p(x)$, the length to the power $p$ averaged over all angles : 
 $$\bar{l}_n^p(x)= \frac{1}{ \alpha_n } \int_0^\pi \sin^{n-2}{(\theta)} l(x,\theta)^p d\theta $$
 
-For a convex space, $\bar{l}_n^n(x)$ is $1$ by definition - although a weaker hypothesis than convexity might be formulated.
+Note that  $\bar{l}_n^n(x)$ is the fraction of space visible from the position $x$. For a convex space, $\bar{l}_n^n(x)$ is $1$ by definition - although a weaker hypothesis than convexity might be formulated.
 
 ## Convex spaces in n dimensions
 Using the property that  $\bar{l}_n^n(x)=1$ for a convex space, we were able to show that :  
