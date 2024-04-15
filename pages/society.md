@@ -1,2 +1,2 @@
-# Society
-[Some figures about global warming](/pages/lowering_carbon)
+# Society 
+- [ Orders of magnitude of carbon footprint ](pages/society/lowering_carbon.md) 

@@ -1,2 +1,2 @@
-# Blog
-[A fast way to compute arccos](/pages/arccos)
+# Blog 
+- [ A fast way to compute arcCos ](pages/blog/arccos.md) 
