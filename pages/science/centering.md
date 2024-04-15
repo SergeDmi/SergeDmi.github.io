@@ -1,8 +1,8 @@
-[//]: # ( __WEIGHT__ 10 )
-[//]: # ( __TITLE__ Nucleus centering and convexity )
 ---
 usemathjax : true
 ---
+[//]: # ( __WEIGHT__ 10 )
+[//]: # ( __TITLE__ Nucleus centering and convexity )
 # Finding the center autonomously in convex cells
 What is the link between an animal cell dividing in the correct place (in the middle), the properties of convex spaces in $n$ dimensions, and Newton's first theorem ? [Well, there is one](https://iopscience.iop.org/article/10.1209/0295-5075/125/48001/) !
 

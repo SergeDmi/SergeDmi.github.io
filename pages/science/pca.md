@@ -1,8 +1,9 @@
-[//]: # ( __WEIGHT__ 100 )
-[//]: # ( __TITLE__ A minimal introduction to PCA )
 ---
 usemathjax : true
 ---
+[//]: # ( __WEIGHT__ 100 )
+[//]: # ( __TITLE__ A minimal introduction to PCA )
+
 # A minimal introduction to data fitting, PCA, and dimensionality reduction
 In this post, I'll give a simple interpretation of PCA, and explain why it allows dimensionality reduction.
 
