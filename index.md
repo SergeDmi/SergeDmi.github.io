@@ -1,13 +1,14 @@
 # Resources on this site
 
-## Science
-[Projects](/pages/projects)  
-[A minimal introduction to PCA](/pages/pca)  
-## Society
-[Some figures about global warming](/pages/lowering_carbon)  
+# Science 
+- [ Nucleus centering and convexity ](pages/science/centering.md) 
+- [ A minimal introduction to PCA ](pages/science/pca.md) 
+- [ Projects ](pages/science/projects.md) 
+# Blog 
+- [ A fast way to compute arcCos ](pages/blog/arccos.md) 
+# Society 
+- [ Orders of magnitude of carbon footprint ](pages/society/lowering_carbon.md) 
 
-## Blog
-[A fast way to compute arccos](/pages/arccos)
 ## Software
 [My github](https://github.com/SergeDmi)  
 [My gitlab](https://gitlab.com/SergeDmi)  
