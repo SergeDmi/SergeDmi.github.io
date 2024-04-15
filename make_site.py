@@ -51,7 +51,10 @@ def make_page(fname, elements, title):
     with open(fname, "w") as file:
         file.write("# %s \n"%title)
         for el in elements:
-            file.write("- [%s](%s) \n" %(el[1],el[2]))
+            link = "%s" %el[2]
+            if link.startswith("pages/"):
+                link = link[6:]
+            file.write("- [%s](%s) \n" %(el[1],link))
 
 if __name__ == "__main__":
     to_sort = {"Science" : [__sc_file__, __sc_fold__],
@@ -66,7 +69,8 @@ if __name__ == "__main__":
     def stash_to_index(elements, title):
         lines.append("## %s" %title)
         for el in elements[0:__N_elems__]:
-            lines.append("- [%s](%s)" % (el[1], el[2]))
+            lines.append("- [%s](%s) \n" % (el[1], el[2]))
+        #lines.append("\n")
 
     for key, item in to_sort.items():
         ranked = make_ranking(item[1])
