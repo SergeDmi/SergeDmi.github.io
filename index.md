@@ -1,12 +1,12 @@
 # Resources on this site
 
-# Science 
+## Science 
 - [ Nucleus centering and convexity ](pages/science/centering.md) 
 - [ A minimal introduction to PCA ](pages/science/pca.md) 
 - [ Projects ](pages/science/projects.md) 
-# Blog 
+## Blog 
 - [ A fast way to compute arcCos ](pages/blog/arccos.md) 
-# Society 
+## Society 
 - [ Orders of magnitude of carbon footprint ](pages/society/lowering_carbon.md) 
 
 ## Software

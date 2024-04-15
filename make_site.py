@@ -64,7 +64,7 @@ if __name__ == "__main__":
     lines = []
 
     def stash_to_index(elements, title):
-        lines.append("# %s" % title)
+        lines.append("## %s" %title)
         for el in elements[0:__N_elems__]:
             lines.append("- [%s](%s)" % (el[1], el[2]))
 
