@@ -1,3 +1,5 @@
+[//]: # ( __WEIGHT__ 100 )
+[//]: # ( __TITLE__ A minimal introduction to PCA )
 ---
 usemathjax : true
 ---

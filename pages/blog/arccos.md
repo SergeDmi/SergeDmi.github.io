@@ -1,3 +1,6 @@
+[//]: # ( __WEIGHT__ 10 )
+[//]: # ( __TITLE__ A fast way to compute arcCos )
+
 In a code I’m developping ([elastic model of discretized shells](https://github.com/SergeDmi/LimeSurf)), I needed to have the arccos of a scalar products of two (normalized) vectors, n1 and n2. So I used :
 
 ```cpp

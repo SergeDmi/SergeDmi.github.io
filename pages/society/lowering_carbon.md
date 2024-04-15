@@ -1,3 +1,5 @@
+[//]: # ( __WEIGHT__ 1000 )
+[//]: # ( __TITLE__ Orders of magnitude of carbon footprint )
 # Carbon emissions
 A small repo to gather values of CO2 emissions. While no value is exact, orders of magnitude are a very powerful tools in the hand of citizens. 
 
