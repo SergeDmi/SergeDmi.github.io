@@ -1,4 +1,4 @@
 # Science 
-- [ Nucleus centering and convexity ](pages/science/centering.md) 
-- [ A minimal introduction to PCA ](pages/science/pca.md) 
-- [ Projects ](pages/science/projects.md) 
+- [ Nucleus centering and convexity ](science/centering.md) 
+- [ A minimal introduction to PCA ](science/pca.md) 
+- [ Projects ](science/projects.md) 
