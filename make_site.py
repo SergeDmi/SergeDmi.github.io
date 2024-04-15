@@ -2,6 +2,7 @@
 ####### PACKAGES
 import sys, os
 
+####### GLOBALS
 __index__ = "index.md"
 __template__ = "index_template.md"
 __sc_file__ = "pages/science.md"
@@ -10,13 +11,16 @@ __blog_file__ = "pages/blog.md"
 __blog_fold__ = "pages/blog"
 __soc_file__ = "pages/society.md"
 __soc_fold__ = "pages/society"
-
 __N_elems__ = 3
 
 __WEIGHT__ = "__WEIGHT__"
 __TITLE__ = "__TITLE__"
 __INSERT_HERE__  = "__INSERT_HERE__"
+
 def make_element(file):
+    """ Reads a file a tries to find the weight and title
+    returns a tuple with weight, title, and filename
+    """
     weight = 0
     title = None
     with open(file, "r") as content:
@@ -38,6 +42,11 @@ def make_element(file):
     return (weight, title, file)
 
 def make_ranking(folder):
+    """ lists all md files in a folder
+        outputs a list of tuples (weight, title, filename)
+        sorted by weight
+        we only keep elements that have a title
+    """
     liste = []
     for file in os.listdir(folder):
         if file.endswith(".md"):
@@ -48,6 +57,7 @@ def make_ranking(folder):
     return kept
         
 def make_page(fname, elements, title):
+    """ Write a thematic page (e.g. science, blog, ...) from a list of elements """
     with open(fname, "w") as file:
         file.write("# %s \n"%title)
         for el in elements:
@@ -62,11 +72,9 @@ if __name__ == "__main__":
                 "Society" : [__soc_file__, __soc_fold__]
                 }
 
-    topics = []
-
     lines = []
-
     def stash_to_index(elements, title):
+        """ Appends lines to be written to the index """
         lines.append("## %s" %title)
         for el in elements[0:__N_elems__]:
             lines.append("- [%s](%s)" % (el[1], el[2]))
@@ -74,7 +82,6 @@ if __name__ == "__main__":
 
     for key, item in to_sort.items():
         ranked = make_ranking(item[1])
-        topics.append(ranked)
         make_page(item[0], ranked, key)
         stash_to_index(ranked, key)
 
