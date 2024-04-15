@@ -69,8 +69,8 @@ if __name__ == "__main__":
     def stash_to_index(elements, title):
         lines.append("## %s" %title)
         for el in elements[0:__N_elems__]:
-            lines.append("- [%s](%s) \n" % (el[1], el[2]))
-        #lines.append("\n")
+            lines.append("- [%s](%s)" % (el[1], el[2]))
+        lines.append("\n")
 
     for key, item in to_sort.items():
         ranked = make_ranking(item[1])
