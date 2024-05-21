@@ -19,7 +19,7 @@ The IPCC highlights the need for a global, concerted action, such that developpi
 The job definition of scientist is to produce new knowledge. A scientist is supposed to maintain their objectivity, i.e. to not distort facts in favor of an ideology.
 It is often assumed that scientists need to remain neutral. However, this is has no real basis. 18th-century philosophers were involved in political matters ; scientists such as Curie or Einstein were involved in the war effort, as scientists. Neutrality is therefore a myth.
 
-Should scientists continue developping face-recognition software, as the technology is overwhelmingly used for surveillance purpose ? Should studies in psychology funded by social media companies to increase their advertising impacts, while advertising fuels the climate crisis ? These questions highlight that the research activity is not neutral, as our research is embedded in our current world. 
+Should scientists continue developping face-recognition software, as the technology is overwhelmingly used for surveillance purpose ? Should we continue studies in psychology funded by social media companies to increase their advertising impacts, while advertising fuels the climate crisis ? These questions highlight that the research activity is not neutral, as our research is embedded in our current world. 
 
 Moreover, our actions are all ethical choices. Just like military personal, employees can (and should) resign if their job missions go against their personal ethics, scientists can choose their research field, and even wether to be scientist. We are scientists by choice, not by nature.
 
