@@ -10,7 +10,7 @@ There is frequent questioning wether scientists should take an active role in th
 
 ## The facts
 
-The IPCC reports indicate a near-certainity of climate change, with temperatures most likely rising by several degrees. Actually, climate scientist all expect the temperature increase to be far beyond 2°C. Climate systems are usually non-linear, and a (very likely) increase of 3°C is incompatible with our lives as we know it (with mass extinctions, crop failures, migrations, wars). To save milions of human lives (not to mention biodiversity), it is necessary to dramatically alter the current trajectory. 
+The IPCC reports indicate a near-certainity of climate change, with temperatures most likely rising by several degrees. Actually, climate scientists all expect the temperature increase to be far beyond 2°C. Climate systems are usually non-linear, and a (very likely) increase of 3°C is incompatible with our lives as we know it (with mass extinctions, crop failures, migrations, wars). To save milions of human lives (not to mention biodiversity), it is necessary to dramatically alter the current trajectory. 
 
 The IPCC highlights the need for a global, concerted action, such that developping countries do not bear the bulk of burden of climate change adaptation and prevention, while developped country are historically responsible for most of the emitted carbon.
 
