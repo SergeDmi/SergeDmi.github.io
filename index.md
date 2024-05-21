@@ -8,6 +8,7 @@
  
 ## Blog 
 - [ A fast way to compute arcCos ](pages/blog/arccos.md) 
+- [ Scientists should get involved in the climate movement : a draft ](pages/blog/engage.md) 
 
  
 ## Society 
