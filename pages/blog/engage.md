@@ -45,7 +45,7 @@ I find that often scientist are reluctant to joining a group if they do not agre
 
 ## Finding one's place
 
-As scientists, we like to collaborate, but we are used to standing out - not being a meaningless individual in a crowd. I was once asked by a friend me participating to mass actions and shooting videos for a climate activism group was not a waste of my skills. I refute this view. I am not an IPCC leader, and my voice should not carry so much more weight as others. 
+As scientists, we like to collaborate, but we are used to standing out - not being a meaningless individual in a crowd. I was once asked by a friend, wether me participating to mass actions and shooting videos for a climate activism group was not a waste of my skills. I refute this view. I am not an IPCC leader, and my voice should not carry so much more weight as others. 
 
 However, I do make use of skills I learnt while becoming a scientist : critical thinking, communication skills, working with others, and my creativity. Overall, I must say I'm pretty happy I'm not a climate scientist : my research is much less depressing, and my climate activism does make sense in my life. It is also a happy place, in which I constantly learn new things and aquire new skills, meet new friends, and enjoy the odd party. 
 
