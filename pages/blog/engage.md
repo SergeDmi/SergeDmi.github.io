@@ -37,7 +37,7 @@ So what should we do ? Make our research more frugal, take the streets, go on hu
 
 We should first get into a collective. While as scientists we are trained to work at the individual level, changing our society will require large-scale actions. Joining a group will allow to have a higher coordination to perform larger-scale actions, and to have more weight on the public discussion. It also allows to have a  broader perspective, and gather different expertise.
 
-What kind of group should one join ? Of course, groups dedicating to decreasing the environmental impact of our research are good. But they do not adress the key issue we need to adress to reach non-catastrophic climate goals : drastically decrease dependence on fossil-fuel growth that rely on increasing consumption. An eternal economic growth that is trivially incompatible with a finite world.
+What kind of group should one join ? Of course, groups dedicated to decreasing the environmental impact of our research are good. But they do not adress the key issue we need to adress to reach non-catastrophic climate goals : drastically decrease dependence on fossil-fuel growth that rely on increasing consumption. An eternal economic growth that is trivially incompatible with a finite world.
 
 Therefore, maximal impact can be sought by joining groups dedicated to addressing the root cause of the problem. A particularly suited group is [Scientist Rebellion](https://scientistrebellion.org/) other but groups as well ; think greenpeace, extinction rebellion, etc. 
 
