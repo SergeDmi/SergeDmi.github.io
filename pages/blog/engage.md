@@ -21,7 +21,7 @@ It is often assumed that scientists need to remain neutral. However, this is has
 
 Should scientists continue developping face-recognition software, as the technology is overwhelmingly used for surveillance purpose ? Should we continue studies in psychology funded by social media companies to increase their advertising impacts, while advertising fuels the climate crisis ? These questions highlight that the research activity is not neutral, as our research is embedded in our current world. 
 
-Moreover, our actions are all ethical choices. Just like military personal, employees can (and should) resign if their job missions go against their personal ethics, scientists can choose their research field, and even wether to be scientist. We are scientists by choice, not by nature.
+Moreover, our actions are all ethical choices. Just like military personel, employees can (and should) resign if their job missions go against their personal ethics, scientists can choose their research field, and even wether to be scientist. We are scientists by choice, not by nature.
 
 Therefore, we should judge what we should do based on our ethical views, not based on the deceiving concept of a society-independent scientist.
 
