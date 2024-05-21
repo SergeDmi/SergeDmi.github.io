@@ -27,7 +27,7 @@ Therefore, we should judge what we should do based on our ethical views, not bas
 
 ## "Business as usual" is a crime
 
-From the IPCC reports, it is clear ther our trajectory has to change to prevent the death and suffering of millions. As scientists, we know the meaning of a scientific consensus. We know that we are as sure of climate change and its dire consequence as we are of gravity, evolution, and such. Maybe small details need to be figured out, but the big picture is *very* clear. 
+From the IPCC reports, it is clear ther our trajectory has to change to prevent the death and suffering of millions. As scientists, we know the meaning of a scientific consensus. We know that we are as sure of climate change and its dire consequences as we are of gravity, evolution, and such. Maybe small details need to be figured out, but the big picture is *very* clear. 
 
 As human beings, it is our ethical responsibility to act against injustice. Letting them happen is a crime. Crimes against humanity such as genocides happen the action of a few and the inaction of many. As scientist, we therefore should act against global warming ; especially because we understand its certainty. We should also act because our words and actions have a lot of weight : scientist still harness much respect from the general public.
 
