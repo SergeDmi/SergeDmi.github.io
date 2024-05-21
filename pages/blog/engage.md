@@ -1,6 +1,8 @@
 [//]: # ( __WEIGHT__ 100 )
 [//]: # ( __TITLE__ Scientists should get involved in the climate movement : a draft )
 
+# Scientists should get involved in the climate movement : a draft 
+
 As climate change is ramping up (carbon dioxyde emission rates are still increasing), the world is currently on a trajectory of rapid temperature increase. This temperature increase is predicted to lead to mass extinctions, food shortage, migrations, and possibly large-scale conflicts.
 
 There is frequent questioning wether scientists should take an active role in the climate discussion, or restrain in the name of scientific neutrality. Here, I will give arguments on why we should get involved, because there is no such thing as scientific neutrality, because the danger is imminent, and because we are responsible human beings.
