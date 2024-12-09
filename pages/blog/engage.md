@@ -41,7 +41,7 @@ What kind of group should one join ? Of course, groups dedicated to decreasing t
 
 Therefore, maximal impact can be sought by joining groups dedicated to addressing the root cause of the problem. A particularly suited group is [Scientist Rebellion](https://scientistrebellion.org/) other but groups as well ; think greenpeace, extinction rebellion, etc. 
 
-I find that often scientist are reluctant to joining a group if they do not agree a 100% to their doctrine. Consider that no group will be perfect or align 100% to your worldview (it is a high dimensional space after all). It is more rational to seek "sufficient alignment", in which one identifies to the group core values and methods of actions. After all, as scientists, we should understand the concept of hierarchy of priorities. Our priority is getting out of the climate crisis.
+I find that scientists are often reluctant to joining a group if they do not agree a 100% to their doctrine. Consider that no group will be perfect or align 100% to your worldview (it is a high dimensional space after all). It is more rational to seek "sufficient alignment", in which one identifies to the group core values and methods of actions. After all, as scientists, we should understand the concept of hierarchy of priorities. Our priority is getting out of the climate crisis.
 
 ## Finding one's place
 
