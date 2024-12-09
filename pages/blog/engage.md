@@ -5,7 +5,7 @@
 
 As climate change is ramping up (carbon dioxyde emission rates are still increasing), the world is currently on a trajectory of rapid temperature increase. This temperature increase is predicted to lead to mass extinctions, food shortage, migrations, and possibly large-scale conflicts.
 
-There is frequent questioning wether scientists should take an active role in the climate discussion, or restrain in the name of scientific neutrality. Here, I will give arguments on why we should get involved, because there is no such thing as scientific neutrality, because the danger is imminent, and because we are responsible human beings.
+There is frequent questioning wether scientists should take an active role in the climate discussion, or restrain in the name of scientific neutrality. Here, I will give arguments on why we should get involved, because there is no such thing as scientific neutrality, because the danger is imminent, and mostly because we are responsible human beings.
 
 
 ## The facts
@@ -21,9 +21,8 @@ It is often assumed that scientists need to remain neutral. However, this is has
 
 Should scientists continue developping face-recognition software, as the technology is overwhelmingly used for surveillance purpose ? Should we continue studies in psychology funded by social media companies to increase their advertising impacts, while advertising fuels the climate crisis ? These questions highlight that the research activity is not neutral, as our research is embedded in our current world. 
 
-Moreover, our actions are all ethical choices. Just like military personel, employees can (and should) resign if their job missions go against their personal ethics, scientists can choose their research field, and even wether to be scientist. We are scientists by choice, not by nature.
+Our actions are all ethical choices. Military personel and employees can (and should) resign if their job missions go against their personal ethics ; scientists can choose their research field, and even wether to be a scientist. It is important to understand here that scientists can be part of the problem, rather than the solution. If we insist on doing our science ignoring the planetary constraints, we will actively promote the myth that science will solve it all ; based on the IPCC reports, we know it will not. As a scientist, we cannot keep to "business as usual". 
 
-Therefore, we should judge what we should do based on our ethical views, not based on the deceiving concept of a society-independent scientist.
 
 ## "Business as usual" is a crime
 
@@ -31,11 +30,12 @@ From the IPCC reports, it is clear ther our trajectory has to change to prevent 
 
 As human beings, it is our ethical responsibility to act against injustice. Letting them happen is a crime. Crimes against humanity such as genocides happen through the action of a few and the inaction of many. As scientist, we therefore should act against global warming ; especially because we understand its certainty. We should also act because our words and actions have a lot of weight : scientist still harness much respect from the general public.
 
+
 ## Taking action
 
 So what should we do ? Make our research more frugal, take the streets, go on hunger strike ?
 
-We should first get into a collective. While as scientists we are trained to work at the individual level, changing our society will require large-scale actions. Joining a group will allow to have a higher coordination to perform larger-scale actions, and to have more weight on the public discussion. It also allows to have a  broader perspective, and gather different expertise.
+We should first get into a collective. While as scientists we are trained to work at the individual level, we know the power of the many. After all, scientific consensus is the result of the cumulated work of the science community. It is clear that changing our society will require large-scale actions. Joining a group will allow to have a higher coordination to perform larger-scale actions, and to have more weight on the public discussion. It also allows to have a  broader perspective, and gather different expertise.
 
 What kind of group should one join ? Of course, groups dedicated to decreasing the environmental impact of our research are good. But they do not adress the key issue we need to adress to reach non-catastrophic climate goals : drastically decrease our dependence on fossil fuels-fueled growth, that rely on increasing consumption. An infinite economic growth that is trivially incompatible with a finite world.
 
@@ -45,7 +45,7 @@ I find that often scientist are reluctant to joining a group if they do not agre
 
 ## Finding one's place
 
-As scientists, we like to collaborate, but we are used to standing out - not being a meaningless individual in a crowd. I was once asked by a friend, wether me participating to mass actions and shooting videos for a climate activism group was not a waste of my skills. I refute this view. I am not an IPCC leader, and my voice should not carry so much more weight as others. 
+As scientists, we like to collaborate, but we are used to standing out - not being a meaningless individual in a crowd. I was once asked by a friend, wether me participating to mass actions and filming videos for a climate activism group was not a waste of my skills. I refute this view. I am not an IPCC leader, and my voice should not carry so much more weight as others. 
 
 However, I do make use of skills I learnt while becoming a scientist : critical thinking, communication skills, working with others, and my creativity. Overall, I must say I'm pretty happy I'm not a climate scientist : my research is much less depressing, and my climate activism does make sense in my life. It is also a happy place, in which I constantly learn new things and aquire new skills, meet new friends, and enjoy the odd party. 
 
